@@ -1,6 +1,6 @@
 # PRPR - 动漫壁纸桌面客户端
 
-<div align="center">
+<div>
 
 一个基于 Electron 的动漫壁纸桌面应用，支持浏览、下载和设置来自 Moebooru 图站的动漫壁纸，多图站功能正在开发中（目前支持yandere）。
 
@@ -67,16 +67,6 @@ npm run electron:build:portable
 - 请遵守图站的使用条款和版权规定
 - 下载的图片仅供个人使用，请勿用于商业用途
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
 ## 📄 许可证
 
 MIT License
-
----
-
-<div align="center">
-Made with ❤️ by PRPR Team
-</div>
