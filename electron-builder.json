@@ -1,6 +1,7 @@
 {
   "appId": "com.prpr.app",
   "productName": "PRPR",
+  "compression": "normal",
   "directories": {
     "output": "release"
   },
